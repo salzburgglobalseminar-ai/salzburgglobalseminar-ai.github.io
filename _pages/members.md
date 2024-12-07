@@ -33,7 +33,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 </h2>
 
 <div class="img-container">
-	<img src="/assets/images/bio-photos/chang-dong.jpg">
+	<img width="35%" src="/assets/images/bio-photos/chang-dong-02.jpg">
 </div>
 
 Professor, Korea Advance Institute of Science and Technology (KAIST)
@@ -45,7 +45,7 @@ Professor, Korea Advance Institute of Science and Technology (KAIST)
 </h2>
 
 <div class="img-container">
-	<img src="/assets/images/bio-photos/carolina.png">
+	<img width="35%" src="/assets/images/bio-photos/carolina.png">
 </div>
 
 International Cooperation Officer, Techo International, Portugal
@@ -57,7 +57,7 @@ International Cooperation Officer, Techo International, Portugal
 </h2>
 
 <div class="img-container">
-	<img src="/assets/images/bio-photos/jake.png">
+	<img width="35%" src="/assets/images/bio-photos/jake.png">
 </div>
 
 Assistant Professor, Lincoln Alexander School of Law, Canada
@@ -69,7 +69,7 @@ Assistant Professor, Lincoln Alexander School of Law, Canada
 </h2>
 
 <div class="img-container">
-	<img src="/assets/images/bio-photos/ieva.png">
+	<img width="35%" src="/assets/images/bio-photos/ieva.png">
 </div>
 
 Gender Equality, Disability Inclusion and Intersectionality Consultant, UN Women, Lithuania
@@ -81,7 +81,7 @@ Gender Equality, Disability Inclusion and Intersectionality Consultant, UN Women
 </h2>
 
 <div class="img-container">
-	<img src="/assets/images/bio-photos/kun.png">
+	<img width="35%" src="/assets/images/bio-photos/kun.png">
 </div>
 
 PhD Research Associate, Luxembourg Institute of Socio-Economic Research and Luxembourg Income Study Cross-National Data Center, Republic of Korea
@@ -93,7 +93,7 @@ PhD Research Associate, Luxembourg Institute of Socio-Economic Research and Luxe
 </h2>
 
 <div class="img-container">
-	<img src="/assets/images/bio-photos/chi-min.png">
+	<img width="35%" src="/assets/images/bio-photos/chi-min.png">
 </div>
 
 DPhil Student, University of Oxford, United Kingdom
@@ -105,7 +105,7 @@ DPhil Student, University of Oxford, United Kingdom
 </h2>
 
 <div class="img-container">
-	<img src="/assets/images/bio-photos/shaurya.png">
+	<img width="35%" src="/assets/images/bio-photos/shaurya.png">
 </div>
 
 Policy Officer, Delegation of the European Union to India, India
