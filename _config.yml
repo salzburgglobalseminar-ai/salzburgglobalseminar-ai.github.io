@@ -1,0 +1,119 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+repository: salzburgglobalseminar-ai/salzburgglobalseminar-ai.github.io
+
+title: Empowering Humanity for Future Enriched by AI
+email: 	ai.salzburg.global.seminar@gmail.com
+description: Empowering Humanity for Future Enriched by AI by KFAS-Salzburg Global Leadership Initiative Fellows
+github_username: salzburgglobalseminar-ai
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+#theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Site Author
+author:
+  name             : KFAS-Salzburg Global Leadership Initiative Fellows
+  avatar           : "/assets/images/the-castle.png"
+  bio              : "Technology, Growth, and Inequality: The Case of AI"
+#  location         : "Silicon Valley, CA, USA"
+#  email            : solar.society.pohang@gmail.com
+  links:
+    - label: "Schloss Leopoldskron"
+      icon: "fa-brands fa-fort-awesome"
+      url: "https://maps.app.goo.gl/pvhWDDYEeD8eCWVM6"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:ai.salzburg.global.seminar@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/salzburgglobalseminar-ai/salzburgglobalseminar-ai.github.io"
+
+# Site Footer
+footer:
+  links:
+    - label: "Schloss Leopoldskron"
+      icon: "fa-brands fa-fort-awesome"
+      url: "https://maps.app.goo.gl/pvhWDDYEeD8eCWVM6"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:ai.salzburg.global.seminar@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/salzburgglobalseminar-ai/salzburgglobalseminar-ai.github.io"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      #classes: wide
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      #classes: wide
+      layout: single
+      author_profile: true
+
+category:
+  type: liquid
+  path: /categories/
+tag:
+  type: liquid
+  path: /tags/
