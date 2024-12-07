@@ -261,4 +261,9 @@ Technology Gap (Local and Global)
 </li>
 </ul>
 
+<h1 id="acknowledgement">
+	Acknowledgement
+</h1>
+
+We extend our gratitude to all members for their active participation in the insightful discussions and debates surrounding "Technology, Growth, and Inequality - the case of AI." Your diverse perspectives and innovative solutions have greatly enriched our understanding of this complex topic.  A special thanks to Professor Hyeok Jeong for expertly guiding and catalyzing our discourse.
 
