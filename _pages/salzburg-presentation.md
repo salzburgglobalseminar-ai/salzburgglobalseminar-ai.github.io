@@ -253,7 +253,7 @@ Technology Gap (Local and Global)
 	</li>
 	<li>
 		make <strong>actual real-world</strong> influence and impacts,
-		eg., both public &amp; private sectors
+		e.g., both public &amp; private sectors
 		-
 		governments, states, law makers, policy makers, tech companies, &hellip;
 	</li>
