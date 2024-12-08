@@ -109,7 +109,6 @@ DPhil Student, University of Oxford, United Kingdom
 </div>
 
 Policy Officer, Delegation of the European Union to India, India
-(<a href="https://www.salzburgglobal.org/people?userID=55327">Shaurya Patel</a>)
 
 
 DPhil Student, University of Oxford, United Kingdom
@@ -118,6 +117,8 @@ DPhil Student, University of Oxford, United Kingdom
 
 <h2 id="sunghee">
 	Sunghee Yun
+<a href="https://www.linkedin.com/in/sungheeyun/"><img width=20 height=20 src="/resource/favicons/icons8-linkedin-480.svg"></a>
+<a href="https://sungheeyun.github.io/"><i class="fa-solid fa-blog"></i></a>
 </h2>
 
 <div class="img-container">
