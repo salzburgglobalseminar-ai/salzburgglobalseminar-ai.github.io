@@ -20,11 +20,7 @@ toc_sticky: true
 	<img style="max-width: 100%;" width="100%" src="/assets/images/das-Schloss-02.png">
 </div>
 
-<h1 id="sub-theme-1">
-	<!--
-	Sub Theme 1
-	-
-	-->
+<h1 id="the-case-of-ai">
 	Technology, Growth, and Inequality: The Case of AI
 </h1>
 
@@ -37,6 +33,15 @@ World Economic Forum, AI and automation are set to create 58 million new jobs by
 but the distribution of these opportunities often reflects existing inequalities. Furthermore,
 AI's impact on inequality is global, with developed nations harnessing more benefits than
 developing countries, potentially widening the global digital divide
+
+<h1 id="blog">Most recent blog posts</h1>
+<ul>
+	{% for post in site.posts limit:10 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
 
 <h1 id="our-strategies">
 	Our Strategies
