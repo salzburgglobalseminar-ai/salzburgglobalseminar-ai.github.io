@@ -66,28 +66,28 @@ author:
 #  location         : "Silicon Valley, CA, USA"
 #  email            : solar.society.pohang@gmail.com
   links:
-    - label: "Schloss Leopoldskron"
-      icon: "fa-brands fa-fort-awesome"
-      url: "https://maps.app.goo.gl/pvhWDDYEeD8eCWVM6"
-    - label: "Email"
-      icon: "fa-solid fa-envelope"
-      url: "mailto:ai.salzburg.global.seminar@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/salzburgglobalseminar-ai/salzburgglobalseminar-ai.github.io"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:ai.salzburg.global.seminar@gmail.com"
+    - label: "Schloss Leopoldskron"
+      icon: "fa-brands fa-fort-awesome"
+      url: "https://maps.app.goo.gl/pvhWDDYEeD8eCWVM6"
 
 # Site Footer
 footer:
   links:
-    - label: "Schloss Leopoldskron"
-      icon: "fa-brands fa-fort-awesome"
-      url: "https://maps.app.goo.gl/pvhWDDYEeD8eCWVM6"
-    - label: "Email"
-      icon: "fa-solid fa-envelope"
-      url: "mailto:ai.salzburg.global.seminar@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/salzburgglobalseminar-ai/salzburgglobalseminar-ai.github.io"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:ai.salzburg.global.seminar@gmail.com"
+    - label: "Schloss Leopoldskron"
+      icon: "fa-brands fa-fort-awesome"
+      url: "https://maps.app.goo.gl/pvhWDDYEeD8eCWVM6"
 
 defaults:
   # _posts
